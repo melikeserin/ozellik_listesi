@@ -1,5 +1,5 @@
-1-video izleme
+1-yorum yapma
 2-abone olma
-3-yorum yapma
+3-video izleme
 4-video indirme
 5-video paylaşma
